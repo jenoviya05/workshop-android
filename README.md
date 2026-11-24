@@ -26,6 +26,8 @@ When the ADD button is clicked, the sum is calculated and displayed in the resul
 The application is developed using Java and XML in Android Studio.
 
 Developed by: JENOVIYA D
+
+
 Registeration Number : 212225040151
 
 ## ACTIVITY_MAIN.XML:
